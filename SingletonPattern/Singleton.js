@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Singleton_pattern
+
 class Process {
   constructor(state) {
     this.state = state;

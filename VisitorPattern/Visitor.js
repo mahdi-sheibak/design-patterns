@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Visitor_pattern
+
 class Employee {
   constructor(name, salary) {
     this.name = name;

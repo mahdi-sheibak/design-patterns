@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Facade_pattern
+
 class Mortgage {
   constructor(name) {
     this.name = name;

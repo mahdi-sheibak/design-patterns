@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Proxy_pattern
+
 class CryptoCurrencyAPI {
   getValue(coin) {
     console.log("Calling External API...");

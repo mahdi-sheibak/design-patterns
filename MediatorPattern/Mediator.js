@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Mediator_pattern
+
 class Member {
   constructor(name) {
     this.name = name;

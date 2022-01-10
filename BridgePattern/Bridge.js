@@ -83,8 +83,6 @@ class Audio {
   }
 }
 
-////////////////////////////////////////////////////////////
-
 const screen = new Screen();
 const audio = new Audio();
 

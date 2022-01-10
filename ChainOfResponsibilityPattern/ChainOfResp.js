@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern
+
 class Checker {
   setSuccessor(successor) {
     this.successor = successor;

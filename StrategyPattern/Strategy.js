@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Strategy_pattern
+
 class UPS {
   constructor() {
     this.name = "UPS";

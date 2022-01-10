@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Observer_pattern
+
 class Observer {
   constructor() {
     this.observers = []; // array of observer functions

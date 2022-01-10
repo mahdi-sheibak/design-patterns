@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Iterator_pattern
+
 class Iterator {
   constructor(items) {
     this.index = 0;

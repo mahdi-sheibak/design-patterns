@@ -1,3 +1,4 @@
+// https://en.wikipedia.org/wiki/Builder_pattern
 class Shop {
   build(builder) {
     builder.step1();

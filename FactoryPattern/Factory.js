@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/Factory_method_pattern
+
 class Developer {
   constructor(name, type) {
     this.name = name;
